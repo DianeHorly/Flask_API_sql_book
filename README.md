@@ -1,4 +1,4 @@
-Rapport d'utilisation de l'application Flask
+                                                        Rapport d'utilisation de l'application Flask
                               1. Introduction
 Ce document décrit le fonctionnement d'une application web construite à l'aide de Flask, un microframework Python. L'application gère une collection de livres stockés dans une base de données SQLite,
 permettant aux utilisateurs de récupérer, ajouter, mettre à jour et supprimer des livres via des requêtes HTTP.
